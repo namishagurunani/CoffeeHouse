@@ -1,3 +1,3 @@
 # Sumbission-Required:
 - GitHub Repository Link:[click here](https://github.com/namishagurunani/CoffeeHouse)
-- Hosted Link:[click here]()
+- Hosted Link:[click here](https://namishagurunani.github.io/CoffeeHouse/)
